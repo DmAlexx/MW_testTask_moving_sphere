@@ -1,0 +1,23 @@
+﻿  CreateSkin.cpp
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(53,24): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(53,46): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(55,25): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(55,47): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(57,26): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(57,48): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(84,24): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(84,69): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(86,25): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(86,70): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(88,26): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(88,71): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\Dmitry\Desktop\Temp_mw1\CreateSkin.cpp(121,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  cutSphereMove.cpp
+  mwArcFunction.cpp
+  mwException.cpp
+  mwIdxRangeException.cpp
+  PointsCloud.cpp
+  CreateFile.cpp
+  Generating Code...
+CreateSkin.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  cutSphereMove.vcxproj -> C:\Users\Dmitry\Desktop\Temp_mw1\Debug\cutSphereMove.exe

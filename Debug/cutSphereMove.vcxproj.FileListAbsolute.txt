@@ -1,0 +1,3 @@
+C:\Users\Dmitry\source\repos\Test_task_Sphere\test_task\Debug\cutSphereMove.exe
+C:\Users\Dmitry\source\repos\Test_task_Sphere\Debug\cutSphereMove.exe
+C:\Users\Dmitry\Desktop\Temp_mw1\Debug\cutSphereMove.exe
